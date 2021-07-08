@@ -1,5 +1,5 @@
 import React,{useEffect, useState} from 'react';
-import {Loader} from './components/Loader';
+import {Loader} from './Loader';
 import './App.css';
 import InfiniteScroll from 'react-infinite-scroll-component';
 
